@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/equalizer-landing-page/static/css/main.e273fdc1.css",
+    "main.js": "/equalizer-landing-page/static/js/main.a9c8f607.js",
+    "static/media/IBMPlexSans-Regular.ttf": "/equalizer-landing-page/static/media/IBMPlexSans-Regular.d77342fdcbcb6b3ce1b5.ttf",
+    "static/media/IBMPlexSans-Bold.ttf": "/equalizer-landing-page/static/media/IBMPlexSans-Bold.e933eba4e2fcc3d71b31.ttf",
+    "static/media/bg-main-desktop.png": "/equalizer-landing-page/static/media/bg-main-desktop.8085941e729a2e4c8077.png",
+    "static/media/illustration-app.png": "/equalizer-landing-page/static/media/illustration-app.ba314fadcdc0e3315830.png",
+    "static/media/logo.svg": "/equalizer-landing-page/static/media/logo.dee4653fc1e24c577e46587ca95c30bd.svg",
+    "static/media/icon-android.svg": "/equalizer-landing-page/static/media/icon-android.4cafae52379b120e0b591571c6b45b9f.svg",
+    "static/media/bg-pattern-1.svg": "/equalizer-landing-page/static/media/bg-pattern-1.7288106dc08a3c8498e091ffb40c2a0f.svg",
+    "index.html": "/equalizer-landing-page/index.html",
+    "static/media/icon-apple.svg": "/equalizer-landing-page/static/media/icon-apple.512441f110679f33cd8eb1e9e9141f2e.svg",
+    "static/media/bg-pattern-2.svg": "/equalizer-landing-page/static/media/bg-pattern-2.da4438d95f7dcf5bc9f0ec4acd52cc2f.svg",
+    "main.e273fdc1.css.map": "/equalizer-landing-page/static/css/main.e273fdc1.css.map",
+    "main.a9c8f607.js.map": "/equalizer-landing-page/static/js/main.a9c8f607.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e273fdc1.css",
+    "static/js/main.a9c8f607.js"
+  ]
+}
